@@ -37,7 +37,12 @@
       "id": "abc234_d",
       "label": "D",
       "title": "Prefix K-th Max",
-      "url": "https://atcoder.jp/contests/abc234/tasks/abc234_d"
+      "url": "https://atcoder.jp/contests/abc234/tasks/abc234_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc234_e",

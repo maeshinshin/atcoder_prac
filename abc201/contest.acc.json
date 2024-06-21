@@ -9,7 +9,12 @@
       "id": "abc201_a",
       "label": "A",
       "title": "Tiny Arithmetic Sequence",
-      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_a"
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc201_b",

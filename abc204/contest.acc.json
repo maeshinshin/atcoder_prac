@@ -9,7 +9,12 @@
       "id": "abc204_a",
       "label": "A",
       "title": "Rock-paper-scissors",
-      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_a"
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc204_b",
@@ -26,7 +31,12 @@
       "id": "abc204_c",
       "label": "C",
       "title": "Tour",
-      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_c"
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc204_d",

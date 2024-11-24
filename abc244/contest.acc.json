@@ -9,7 +9,12 @@
       "id": "abc244_a",
       "label": "A",
       "title": "Last Letter",
-      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_a"
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc244_b",
